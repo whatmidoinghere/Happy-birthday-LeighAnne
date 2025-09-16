@@ -1116,7 +1116,7 @@
   <footer>
     <h3>Happy 19th Birthday, Princess!</h3>
     <p class="muted">May this special day bring you endless joy, wonderful surprises, and all the happiness your heart can hold. ✨</p>
-    <p class="muted">Made with ❤️ for Princess LeighAnne's 19th Birthday — Website created by Phenyl - 0537872807</p>
+    <p class="muted">Made with ❤️ for Princess LeighAnne's 19th Birthday
   </footer>
 
 </main>
